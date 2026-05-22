@@ -29,5 +29,15 @@
             Margin="3"
             Click="Button_Click"
             Content="Button" />
+        <Button
+            Grid.Row="2"
+            Grid.Column="1"
+            Width="110"
+            Height="32"
+            Margin="3"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="WorkTreeButton_Click"
+            Content="WorkTree按钮" />
     </Grid>
 </Window>

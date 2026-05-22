@@ -25,5 +25,10 @@ namespace WPFDemo
         {
             MessageBox.Show("Hello");
         }
+
+        private void WorkTreeButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("我是WorkTree按钮");
+        }
     }
 }
